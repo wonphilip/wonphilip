@@ -1,4 +1,4 @@
-## 👋 선문대학교 컴퓨터공학부 25학번 원필립 입니다!
+## 👋 원필립입니다!
 
 ### Frontend
 <div style="display:flex; flex-direction:row; align="center;">  
